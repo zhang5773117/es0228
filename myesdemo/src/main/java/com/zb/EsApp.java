@@ -10,6 +10,7 @@ import java.util.List;
 
 @SpringBootApplication
 public class EsApp {
+	//测试修改代码
     public static void main(String[] args) throws Exception {
 
         ConfigurableApplicationContext run = SpringApplication.run(EsApp.class, args);
